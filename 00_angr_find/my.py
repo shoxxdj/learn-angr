@@ -1,3 +1,5 @@
+#Le binaire effectue un scanf; puis une fonction de vérification
+
 import angr
 import sys
 
